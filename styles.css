@@ -47,4 +47,5 @@ a.google {
 
 a:hover {
   background-position-y: top;
+  transition: all 0.4s ease-out;
 }
