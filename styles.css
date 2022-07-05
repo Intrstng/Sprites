@@ -1,0 +1,69 @@
+a {
+  display: inline-block;
+  width: 100px;
+  height: 98px;
+  background-image: url(sprites2.png);
+  background-repeat: no-repeat;
+  margin-right: 10px;
+  text-align: center;
+  font-size: 24px;
+  border: 1px solid rgb(224, 70, 70);
+  text-decoration: none;
+  line-height: 1.5em;
+}
+
+a.facebook {
+  background-position: left bottom;
+}
+
+a.facebook:hover {
+  background-position: left top;
+}
+
+a.twitter {
+  background-position: -100px bottom;
+}
+
+a.twitter:hover {
+  background-position: -100px top;
+}
+
+a.youtube {
+  background-position: -200px bottom;
+}
+
+a.youtube:hover {
+  background-position: -200px top;
+}
+
+a.instagram {
+  background-position: -300px bottom;
+}
+
+a.instagram:hover {
+  background-position: -300px top;
+}
+
+a.linkedin {
+  background-position: -400px bottom; 
+}
+
+a.linkedin:hover {
+  background-position: -400px top; 
+}
+
+a.tumblr {
+  background-position: -500px bottom; 
+}
+
+a.tumblr:hover {
+  background-position: -500px top; 
+}
+
+a.google {
+  background-position: -600px bottom;     
+}
+
+a.google:hover {
+    background-position: -600px top; 
+}
