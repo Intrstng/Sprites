@@ -16,7 +16,6 @@ a.facebook {
   background-position: left bottom;
 }
 
-
 a.twitter {
   background-position: -100px bottom;
 }
@@ -25,21 +24,17 @@ a.youtube {
   background-position: -200px bottom;
 }
 
-
 a.instagram {
   background-position: -300px bottom;
 }
-
 
 a.linkedin {
   background-position: -400px bottom; 
 }
 
-
 a.tumblr {
   background-position: -500px bottom; 
 }
-
 
 a.google {
   background-position: -600px bottom;     
