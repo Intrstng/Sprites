@@ -16,54 +16,35 @@ a.facebook {
   background-position: left bottom;
 }
 
-a.facebook:hover {
-  background-position: left top;
-}
 
 a.twitter {
   background-position: -100px bottom;
-}
-
-a.twitter:hover {
-  background-position: -100px top;
 }
 
 a.youtube {
   background-position: -200px bottom;
 }
 
-a.youtube:hover {
-  background-position: -200px top;
-}
 
 a.instagram {
   background-position: -300px bottom;
 }
 
-a.instagram:hover {
-  background-position: -300px top;
-}
 
 a.linkedin {
   background-position: -400px bottom; 
 }
 
-a.linkedin:hover {
-  background-position: -400px top; 
-}
 
 a.tumblr {
   background-position: -500px bottom; 
 }
 
-a.tumblr:hover {
-  background-position: -500px top; 
-}
 
 a.google {
   background-position: -600px bottom;     
 }
 
-a.google:hover {
-    background-position: -600px top; 
+a:hover {
+  background-position-y: top;
 }
